@@ -1,0 +1,15 @@
+name: eldenring_rune_farming
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - icecream
+  - keyboard
+  - pillow
+  - psutil
+  - pyautogui
+  - pyserial
+  - pywin32-ctypes
+  - ultralytics
+  - numpy

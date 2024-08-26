@@ -1,0 +1,1 @@
+The different versions do not correspond to the versions of YOLO used. Rather the different versions this folder went through.

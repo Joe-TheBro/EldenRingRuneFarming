@@ -1,0 +1,30 @@
+Screen {
+    align: center middle;
+}
+
+Rule {
+    margin: 0;
+}
+
+Input {
+    width: 30%;
+}
+
+#InstructionBox {
+    /* height: 50%; */
+    width: 33%;
+}
+
+#StartButton {
+    dock: bottom;
+}
+
+#StatusBox {
+    /* height: 10%; */
+    width: 33%;
+    padding: 5;
+}
+
+#StatusTable {
+
+}

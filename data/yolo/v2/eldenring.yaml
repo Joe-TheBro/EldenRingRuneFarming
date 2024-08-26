@@ -1,0 +1,9 @@
+path: ''
+train: images/train
+val: images/val
+test: null
+names:
+  0: compass
+  1: grace
+  2: map
+download: null

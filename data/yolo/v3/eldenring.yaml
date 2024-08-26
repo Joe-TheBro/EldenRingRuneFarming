@@ -1,0 +1,12 @@
+path: ''
+train: images/train
+val: images/val
+names:
+  0: compass
+  1: grace
+  2: map
+  3: compass_north
+  4: compass_east
+  5: compass_west
+  6: compass_south
+download: null
